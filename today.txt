@@ -1,2 +1,2 @@
 hi this is linux system pratices git commands daily basics.
-updated code add in linux commands sed grep and find cd l:s: 
+updated code add in linux commands sed grep and find cd ls 
