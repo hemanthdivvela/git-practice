@@ -1,3 +1,2 @@
 hi this is linux system pratices git commands daily basics.
-updated code add in linux commands sed grep and find cd ls
-docker and k8 files add in linux systems.
+updated code add in linux commands sed grep and find cd ls 
